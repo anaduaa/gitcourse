@@ -6,3 +6,4 @@ git add name of file
 git -c user.email="duaa.aqel.2020@gmail.com" -c user.name="anaduaa" commit -m "created new project"
 ###to reverse 
 git reset head name of file
+git push origin main
